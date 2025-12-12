@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello to all project developers
+
+My name is Yaroslav Matveev. I am System administrator | Alfa bank CEO
+
+I'm a fan of Git, GitHub, Linux, and Wires.
+
+
+<img width="624" height="410" alt="Снимок экрана 2025-12-12 в 13 29 14" src="https://github.com/user-attachments/assets/6880b4f5-ca9d-419e-8a84-91a158d3c037" />
 
 <!--
 **madmanerr/madmanerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
