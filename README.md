@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Твое Имя]
+# 👋 Hi, I'm Yaroslav
 
 <div align="center">
   <a href="https://git.io/typing-svg">
